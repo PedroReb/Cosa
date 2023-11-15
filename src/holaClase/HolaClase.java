@@ -7,6 +7,10 @@ public class HolaClase {
 System.out.println("Hola Clase");
 System.out.println("Adios Clase");
 System.out.println("y ahora a casa");
+System.out.println("Hola a todos");
+System.out.println("Adios a todos");
+System.out.println("y ahora a casa");
+
 
 	}
 
